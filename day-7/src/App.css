@@ -1,0 +1,14 @@
+
+input{
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+}
+
+h1{
+  text-align: center;
+}
+/* tr,td{
+ text-align: center;
+ border: 2px double black;
+} */
